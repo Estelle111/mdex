@@ -1,6 +1,6 @@
-                                         # Estelle Profile
+# Estelle Profile
 
-                                   ## Hello everyone, I'm Estelle!
+## Hello everyone, I'm Estelle!
 
 I love watching **movies**, learning **code**, **playing cards(ESL)**, **running** ~~even if I dont run anymore~~, eating **stoemp**.
 
